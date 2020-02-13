@@ -1,0 +1,16 @@
+.header{
+text-align:center;
+text-shadow:5px 4px 3px #999;
+}
+.main {}
+.img{
+    float:left;
+    margin:12px;
+}
+.footer div{
+  text-align:center;
+}
+.body{
+  background-image: url(Photo/intro.png);
+  background-repeat: no-repeat;
+}
